@@ -41,4 +41,4 @@ date_format = "Jan 2006"
 
 As part of our software development process, Plyint occassionally releases open source projects that we think would benefit the community at large.  Unlike our commercial products, these projects carry pure OSI approved open source licenses (e.g. MIT license) and are hosted on Plyint's GitHub account.
 
-If you find them useful and would like to support those projects please consider donating via our GitHub sponsorship program.  Donated money is prioritized for development staff supporting these projects.  Thank you! :)
+<!--If you find them useful and would like to support those projects please consider donating via our GitHub sponsorship program.  Donated money is prioritized for development staff supporting these projects.  Thank you! :)-->
