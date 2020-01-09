@@ -44,7 +44,10 @@ local_business_type = ""
 org_name = "Plyint LLC"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "A remote-first, podular software company creating open source friendly products"
+
+# Author for social sharing and search engines.  If undefined, superuser name is used in place.
+author = "Plyint LLC"
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
