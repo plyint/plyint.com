@@ -51,4 +51,4 @@ hero_media = "plyint_logo.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-A **remote-first**, **podular** software company creating **open source friendly** solutions.
+A **remote-first**, **podular** software company creating **open source friendly** products.
