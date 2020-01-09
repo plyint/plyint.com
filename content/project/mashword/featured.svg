@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="39.382488mm"
+   height="15.000003mm"
+   viewBox="0 0 39.382488 15.000003"
+   version="1.1"
+   id="svg1443">
+  <defs
+     id="defs1437" />
+  <metadata
+     id="metadata1440">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-92.369776,-121.17868)"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.65781689px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.49905184"
+       x="92.778473"
+       y="129.41902"
+       id="text875"><tspan
+         x="92.778473"
+         y="129.41902"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.97724438px;font-family:'Jawbreaker OL1 BRK';-inkscape-font-specification:'Jawbreaker OL1 BRK';fill:#0072ff;fill-opacity:1;stroke-width:0.49905184"
+         id="tspan893">Mash</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.24829102px;line-height:1.25;font-family:arial;-inkscape-font-specification:arial;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.45517406"
+       x="84.412277"
+       y="149.35516"
+       id="text933-1"
+       transform="scale(1.0963978,0.91207772)"><tspan
+         id="tspan931-7"
+         x="84.412277"
+         y="149.35516"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.92417717px;font-family:'Jawbreaker OL2 BRK';-inkscape-font-specification:'Jawbreaker OL2 BRK';fill:#000080;fill-opacity:1;stroke-width:0.45517406">Word</tspan></text>
+  </g>
+</svg>
