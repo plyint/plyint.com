@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Plyint</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Plyint, LLC. All rights reserved.</copyright><lastBuildDate>Thu, 12 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/plyint_icon.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Mashword</title>
+      <link>/project/mashword/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project/mashword/</guid>
+      <description>&lt;p&gt;Mashword is a name generation service that uses a mix of algorithms and techniques to create new words from user entered words.  Unlike traditional name generation services, the generated words are designed to both look and sound like combinations of the word or words entered by the user based on typical english pronounciations.  This approach produces high-quality, novel spellings and unique sounding words.&lt;/p&gt;
+&lt;p&gt;Some example use cases are generating brand names for businesses or coming up with unique spellings of traditional baby names.  The possiblities are limited only by your imagination.&lt;/p&gt;
+&lt;p&gt;The service is free of charge to individuals.  Commercial entities interested in high volume queries via API can contact Plyint for rates.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

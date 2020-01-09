@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Plyint</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Plyint, LLC. All rights reserved.</copyright><lastBuildDate>Thu, 19 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/plyint_icon.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>dapp</title>
+      <link>/tags/dapp/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/dapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dweb</title>
+      <link>/tags/dweb/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/dweb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethereum</title>
+      <link>/tags/ethereum/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/ethereum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web3</title>
+      <link>/tags/web3/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/web3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SaaS</title>
+      <link>/tags/saas/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/saas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
