@@ -57,4 +57,4 @@ Plyint is organized as a collection of small teams known as *"Pods"*.  Each pod 
 
 Dependencies between products/features are handled using well-defined interfaces.  These interfaces are the **same** regardless of whether they are external or internal to the organization. This reduces complexity and ensures we are *"[dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)"* our own sofware. 
 
-By using a small team approach, deep technical expertise and design consensus can be quickly reached.  This initimate knowledge of each product translates into higher quality software that meets the needs of our users.
+By using a small team approach, deep technical expertise and design consensus can be quickly reached.  This intimate knowledge of each product translates into higher quality software that meets the needs of our users.
