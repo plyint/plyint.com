@@ -17,7 +17,7 @@
       <link>/project/mashword/</link>
       <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/project/mashword/</guid>
-      <description>&lt;p&gt;Mashword is a name generation service that uses a mix of algorithms and techniques to create new words from words entered by a user.  Unlike traditional name generation services, the generated words are designed to both look and sound like combinations of the word or words entered by the user based on typical english pronounciations.  This approach produces high-quality, novel spellings and unique sounding words.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://mashword.com&#34;&gt;Mashword&lt;/a&gt;&lt;/strong&gt; is a name generation service that uses a mix of algorithms and techniques to create new words from words entered by a user.  Unlike traditional name generation services, the generated words are designed to both look and sound like combinations of the word or words entered by the user based on typical english pronounciations.  This approach produces high-quality, novel spellings and unique sounding words.&lt;/p&gt;
 &lt;p&gt;Some example use cases are generating brand names for businesses or coming up with unique spellings of traditional baby names.  The possiblities are limited only by your imagination.&lt;/p&gt;
 &lt;p&gt;The service is free of charge to individuals.  Commercial entities interested in high volume queries via API can contact Plyint for rates.&lt;/p&gt;
 </description>
