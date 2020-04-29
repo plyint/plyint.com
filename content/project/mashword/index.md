@@ -21,7 +21,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 
-coming_soon: true
+coming_soon: false
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -31,7 +31,7 @@ coming_soon: true
 #slides: example
 ---
 
-Mashword is a name generation service that uses a mix of algorithms and techniques to create new words from words entered by a user.  Unlike traditional name generation services, the generated words are designed to both look and sound like combinations of the word or words entered by the user based on typical english pronounciations.  This approach produces high-quality, novel spellings and unique sounding words.
+**[Mashword](https://mashword.com)** is a name generation service that uses a mix of algorithms and techniques to create new words from words entered by a user.  Unlike traditional name generation services, the generated words are designed to both look and sound like combinations of the word or words entered by the user based on typical english pronounciations.  This approach produces high-quality, novel spellings and unique sounding words.
 
 Some example use cases are generating brand names for businesses or coming up with unique spellings of traditional baby names.  The possiblities are limited only by your imagination.  
 
